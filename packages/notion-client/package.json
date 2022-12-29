@@ -1,13 +1,11 @@
 {
   "name": "notion-client",
   "version": "6.15.5",
-  "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
   "repository": "NotionX/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
-  "module": "./build/index.js",
   "types": "./build/index.d.ts",
   "sideEffects": false,
   "files": [
